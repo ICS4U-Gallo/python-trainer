@@ -5,7 +5,7 @@ Provides a set of Python exercises to complete within a specific time-frame (10 
 ## Functionality
 - Track user progress within the various sections (Intro, Strings, If-Statements, etc..)
 - Track user progress within subsections.
-- Provide set of exercises ([fundamental](#fundamental-exercises) and [practical](#practical-exercises)) increasing in difficulty according to user completion history.
+- Provide set of exercises ([fundamental](#fundamental-exercises) and [practical](#practical-exercises)) increasing in difficulty according to user completion history and level of [mastery](#mastery).
     - Two/three warm up questions
     - One/two less-mastered *fundamentals*
     - One *practical* exercise
