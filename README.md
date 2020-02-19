@@ -10,6 +10,13 @@ Provides a set of Python exercises to complete within a specific time-frame (10 
     - One/two less-mastered *fundamentals*
     - One *practical* exercise
     - Repetition of exercises/fundamental subsections is necessary from time to time, based on level of [mastery](#mastery). Similar exercises might be prescribed for multiple days until a sufficient level of mastery is attained and then occasionally prescribed as warm up questions to maintain the mastery status.
+    
+### Teacher
+- Has classes
+- Each class has a roster of students
+- Teachers can track progress/level of mastery of each student.
+- Identify whether students are not practicing or struggling.
+- Identify fundamental/practical exercises that either have a low success rate or take a long time to complete.
 
 
 ## Fundamental Exercises
